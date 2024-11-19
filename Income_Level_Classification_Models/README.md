@@ -2,12 +2,7 @@
 Predicting Income Levels with ML Classification Models💰💹
   
 Logistic Regression - SVM - KNN📈💵
-</h1>
 
-<p align="center">
-  <img src="https://github.com/Duygu-Jones/Machine-Learning-Projects/blob/main/Income_Classification_ML_Models/income2x.png?raw=true"
-">
-</p>
 
 ## Introduction
 
@@ -113,14 +108,6 @@ In this project, we used logistic regression, SVM, and KNN models to predict inc
 
 ---
 
-## ⬇️Installation
-
-*To view the notebook online, visit my **Kaggle** profile.*
-*If you find this work helpful, don't forget to give it an 👍 UPVOTE! and join the discussion!*
-
- - Kaggle Notebook:** [💵Income Classification (Logistic-KNN-SVM)💰](https://www.kaggle.com/code/duygujones/income-classification-logistic-svm-knn)
- - The dataset is available to download on the Kaggle website / UCI Machine Learning Repository: [Adult Census Income](https://www.kaggle.com/datasets/uciml/adult-census-income)
-
 ## 🤝Contributing
 
 Contributions are welcome! If you have any improvements, suggestions, or additional datasets and projects to share, please fork the repository and create a pull request.
@@ -129,15 +116,8 @@ Contributions are welcome! If you have any improvements, suggestions, or additio
 
 ## 🌱About Me
 
-I'm Duygu Jones, a Data Scientist, passionate about data analysis, and machine learning.
+I'm Kalyani Wagh, a Data Scientist, passionate about data analysis, and machine learning.
 
-♻️ You can find more about me and my work through the following links:
-
-- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Website**: [duygujones.com](https://duygujones.vercel.app/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
 
 🌐Feel free to connect with me!
 
@@ -150,7 +130,3 @@ I'm Duygu Jones, a Data Scientist, passionate about data analysis, and machine l
 Code with joy! 👩‍💻✨
 
 ---
-
-##### 📜 License
-
-##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
