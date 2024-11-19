@@ -5,9 +5,6 @@
 <h3 align="center"> Decision Tree - Random Forest - AdaBoost - Gradient - XGBoost - LightBoost - CatBoost - Stacking </h3>
 
 
-<p align="center">
-  <img src="https://github.com/Duygu-Jones/Machine-Learning-Projects/blob/main/Titanic_ML_Boosting_Models/img/titanic_gif2.gif?raw=true"
-</p>
 
 <h3 align="center"> The Story Behind This Notebook: My Titanic Data Journey </h3>
 
@@ -28,9 +25,7 @@ Finally, after carefully comparing the models, a final model was selected and us
 
 
 ## About the Project
-<p align="center">
-  <img src="https://github.com/Duygu-Jones/Machine-Learning-Projects/blob/main/Titanic_ML_Boosting_Models/img/titanicX2.png?raw=true"
-</p>
+
   
 The goal of this project is to build a predictive model that identifies the characteristics and conditions associated with a higher likelihood of survival.   
  The Titanic disaster revealed that survival was influenced by a range of factors, such as class, age, and gender.    
@@ -114,14 +109,6 @@ In this project, we used AdaBoost, Gradient Boosting, XGBoost, Stacking, Random 
 
 ---
 
-## ⬇️Installation
-
-*To view the notebook online, visit my **Kaggle** profile.*
-*If you find this work helpful, don't forget to give it an 👍 UPVOTE! and join the discussion!*
-
- - Kaggle Notebook: [Titanic Prediction-Advanced Ensemble ML Models🚢⚓](https://www.kaggle.com/code/duygujones/titanic-prediction-advanced-ensemble-ml-models)
- - The dataset is available to download on the Kaggle: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
- - Relevant Paper: Will Cukierski. (2012). Titanic - Machine Learning from Disaster. Kaggle. https://kaggle.com/competitions/titanic 
 
 ## 🤝Contributing
 
@@ -131,15 +118,9 @@ Contributions are welcome! If you have any improvements, suggestions, or additio
 
 ## 🌱About Me
 
-I'm Duygu Jones, a Data Scientist, passionate about data analysis, and machine learning.
+I'm Kalyani Wagh, a Data Scientist, passionate about data analysis, and machine learning.
 
-♻️ You can find more about me and my work through the following links:
 
-- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Website**: [duygujones.com](https://duygujones.vercel.app/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
 
 🌐Feel free to connect with me!
 
@@ -152,7 +133,3 @@ I'm Duygu Jones, a Data Scientist, passionate about data analysis, and machine l
 Code with joy! 👩‍💻✨
 
 ---
-
-##### 📜 License
-
-##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
